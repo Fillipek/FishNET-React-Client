@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zti-fishnet/static/css/main.c7ec3132.css",
+    "main.js": "/zti-fishnet/static/js/main.53a382d6.js",
+    "index.html": "/zti-fishnet/index.html",
+    "main.c7ec3132.css.map": "/zti-fishnet/static/css/main.c7ec3132.css.map",
+    "main.53a382d6.js.map": "/zti-fishnet/static/js/main.53a382d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.53a382d6.js"
+  ]
+}
