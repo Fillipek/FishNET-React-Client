@@ -38,6 +38,7 @@ export async function apiLogin(credentials: LoginCredentials): Promise<Tokens> {
         const response = await axios.post<Tokens>('/login', params);
         return response.data;
     } catch (error) {
+        console.log(error)
         throw new Error("Failed to login");
     }
 }
